@@ -1,0 +1,1 @@
+[{"type":"function","name":"get_counter","inputs":[],"outputs":[{"type":"core::integer::u128"}],"state_mutability":"view"},{"type":"event","name":"HelloStarknet::HelloStarknet::HelloStarknet::Event","kind":"enum","variants":[]}]
