@@ -1,0 +1,16 @@
+{
+  "name": "t8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Richard",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "@shardlabs/starknet-hardhat-plugin": "^0.8.0-alpha.3",
+    "hardhat": "^2.16.1"
+  }
+}
