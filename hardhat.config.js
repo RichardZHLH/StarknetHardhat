@@ -5,7 +5,7 @@ require("@nomicfoundation/hardhat-toolbox");
 module.exports = {
   solidity: "0.8.18",
   starknet: {
-    network: "bak_myNetwork",
+    network: "alphaGoerli",
     //dockerizedVersion: "0.12.0",
     venv: "/home/lzhang/cairo_venv",
     cairo1BinDir:"/home/lzhang/.cairo/target/release",
