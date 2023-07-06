@@ -1,6 +1,6 @@
 {
  "/home/lzhang/Research/StarknetHardhat/contracts/HelloStarknet.cairo": {
-  "contentHash": "e912c231b8e2d0b582b114153145519da6474dd26539bd588fc98e2d633dc8f2",
+  "contentHash": "ce06ddb955694f3d17d017fdbd4fe5b1337a5843bed6667d7dd64681e77d1c4f",
   "outputPath": "/home/lzhang/Research/StarknetHardhat/starknet-artifacts/contracts/HelloStarknet.cairo/HelloStarknet.json",
   "abiPath": "/home/lzhang/Research/StarknetHardhat/starknet-artifacts/contracts/HelloStarknet.cairo/HelloStarknet_abi.json"
  }

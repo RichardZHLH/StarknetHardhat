@@ -11,6 +11,6 @@ mod HelloStarknet {
     #[external(v0)]
       fn get_counter(self: @ContractState) -> u128 { 
         let current = self.counter.read();
-        return current;
+        return current+1;
       }
 }
