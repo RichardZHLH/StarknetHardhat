@@ -32,3 +32,6 @@ main().catch((error) => {
   console.error(error);
   process.exitCode = 1;
 });
+
+
+//   deployTxHash: '0x3eb9d8d04b1041307d2fa866a8fdb607478ce18302842bf9e8230c5832d989d'
